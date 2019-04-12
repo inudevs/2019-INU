@@ -97,3 +97,4 @@ API의 개념에 대해 알아보고, RESTful API와 JWT에 대해서 공부하�
 ## RESTful API?
 
 ## JWT?
+Json Web Token
