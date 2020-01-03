@@ -8,7 +8,7 @@
 
 - ![dc](./badges/dc.svg) 권순우
 - ![dc](./badges/dc.svg) 김수빈
-- ![dc](./badges/dc.svg) 김한경 
+- ![dc](./badges/dc.svg) 김한경
 - ![wp](./badges/wp.svg) 박승아
 - ![wp](./badges/wp.svg) 심재성
 - ![wp](./badges/wp.svg) 윤영창
